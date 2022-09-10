@@ -1,0 +1,31 @@
+{
+  "name": "carbon-charts-react-elkjs-diagram",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@carbon/charts": "0.58.2",
+    "@carbon/charts-react": "0.58.2",
+    "@carbon/elements": "10.56.0",
+    "@carbon/icons-react": "10.49.0",
+    "carbon-components": "10.58.1",
+    "carbon-components-react": "7.59.1",
+    "carbon-icons": "7.0.7",
+    "d3-path": "3.0.1",
+    "elkjs": "0.8.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.16.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
